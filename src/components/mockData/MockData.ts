@@ -72,11 +72,11 @@ export const mockAccounts: Account[] = [
     holder: {
       fullName: 'Lynn Bella Stone',
       mobileNumber: '********',
-      email: 'l*@outlook.com',
+      email: 'l*@gmail.com',
       jointNames: '',
       profileImg: '',
       username: 'lynn_bella23',
-      password: 'LbStone!942'
+      password: 'Bella716'
     },
     bank_details: {
       account_type: 'Checking',
